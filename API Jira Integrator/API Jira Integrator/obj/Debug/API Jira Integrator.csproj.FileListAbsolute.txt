@@ -1,0 +1,138 @@
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\ApplicationInsights.config
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\csc.exe
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\vbc.exe
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll.config
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.pdb
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\WebGrease.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.xml
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.pdb
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Helpers.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Mvc.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Optimization.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Razor.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csprojResolveAssemblyReference.cache
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.dll
+c:\users\dagom\onedrive\documentos\visual studio 2015\Projects\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.pdb
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\ApplicationInsights.config
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\csc.exe
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\vbc.exe
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll.config
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.pdb
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\WebGrease.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.xml
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.pdb
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Helpers.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Mvc.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Razor.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csprojResolveAssemblyReference.cache
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.dll
+C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.pdb

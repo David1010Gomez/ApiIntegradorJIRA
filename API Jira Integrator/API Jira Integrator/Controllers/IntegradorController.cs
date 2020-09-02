@@ -14,24 +14,13 @@ namespace API_Jira_Integrator.Controllers
 {
     public class IntegradorController : ApiController
     {
-        // GET: api/Integrador/5
         [HttpGet]
         public Task<string> ApiJIRA(string query)
         {
-            //string url = @"http://jira.segurosbolivar.com/rest/api/2/search?jql=assignee = currentUser() and (status != Backlog  and status  != 'Backlog Priorizado' and status  != Done)";
-            //string authInfo = "1076622744:David10.,";
-            //authInfo = Convert.ToBase64String(Encoding.Default.GetBytes(authInfo));
-            //HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
-            //request.Method = "GET";
-            //request.Accept = "application/json; charset=utf-8";
-            //request.Headers["Authorization"] = "Basic " + authInfo;
-            //StreamReader responseReader = new StreamReader(request.GetResponse().GetResponseStream());
-            //var responseData = responseReader.ReadToEnd();
-
             Task<string> strObj = null;
             using (var httpClient = new HttpClient())
             {
-                string url = @"http://jira.segurosbolivar.com/rest/api/2/search?jql=assignee = currentUser() and (status != Backlog  and status  != 'Backlog Priorizado' and status  != Done)";
+                string url = @"http://jira.segurosbolivar.com/rest/api/2/search?jql=" + query;
                 string authInfo = "1076622744:David10.,";
                 authInfo = Convert.ToBase64String(Encoding.Default.GetBytes(authInfo));
                 var header = new AuthenticationHeaderValue("Basic", authInfo);

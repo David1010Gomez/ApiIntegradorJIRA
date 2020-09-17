@@ -136,3 +136,77 @@ C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira I
 C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csprojResolveAssemblyReference.cache
 C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.dll
 C:\Users\dagom\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.pdb
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\ApplicationInsights.config
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\csc.exe
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\vbc.exe
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll.config
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\API Jira Integrator.pdb
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\WebGrease.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.Web.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Newtonsoft.Json.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Net.Http.Formatting.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Helpers.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.WebHost.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Mvc.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Optimization.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Razor.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.WebPages.Razor.xml
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\Antlr3.Runtime.pdb
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Helpers.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Mvc.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Optimization.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.Razor.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csprojAssemblyReference.cache
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csproj.CoreCompileInputs.cache
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.csproj.CopyComplete
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\obj\Debug\API Jira Integrator.pdb
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Cors.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.Cors.dll
+C:\Users\1076622744\Documents\GitHub\ApiIntegradorJIRA\API Jira Integrator\API Jira Integrator\bin\System.Web.Http.Cors.xml
